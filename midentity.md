@@ -1,0 +1,12 @@
+# Digital Identification Platform (midentity) betachain
+
+Identity information of an individual will be uploaded and stamped to a user created asset where it is stored and cannot be modified. The identity information will then be accessible through a special JSON file that is indefinitely stamped by the Identity asset. The stored information stored on the asset is read-only and can be shared as a JSON file which will hold the imported identity information from the singleton asset. Such a transaction will replace the need for photocopies and physical certification of identity documents. A user can issue as many JSON identity files and send them to any address on the blockchain. Munhumutapa will run the verification and certification of such assets by asking users to upload scanned copies of their physical documents and if verified, the user account is tagged by the chain's native coin issuer with verifiable data. While Munhumutapa is a decentralized platform, to make ensure identities are real and accurate, the process will require a central role to achieve authenticity.
+
+By using this digital identity, users can finally take control of their data since users can choose to sell their identity assets to companies which make use of this data. Users are also liberated from the need to always carry documents wherever they go which sometimes results in the loss of these important documents.
+
+A potential use is in travel specifically ports of entry clearance, a passenger could submit their passport by sharing their passport JSON identity file with the airport's or border authority's account. The port then cryptographicaly signs the JSON file which validates the passenger's entry or exit. At the next port, the user will submit the signed JSON-type passport file before going through the validation process.
+
+Since identity will be stored and read on the blockchain, we will also add other essential verification documents like academic certificates, proof of residence etc.
+
+The system will not only be restricted to individuals, it is also essential and needed by companies in various industries even more so. Companies can have their certificates of incorporation, tax clearances and other validation documents stored on unique issued blockchain identity assets and will need authentication by multi parties before they can be shared or copied. 
+With such a system, individuals can use these identity-based asset files to open accounts in banks, to take out loans or insurance. Paperwork will be cut down by almost 90% in use cases.
