@@ -1,2 +1,3 @@
-# munhumutapa-wallet
-Mobile wallet for Munhumutapa Alphablockchain
+# Munhumutapa Alphablockchain
+"Building an integrated African Economy Through ockchain Technology"
+
