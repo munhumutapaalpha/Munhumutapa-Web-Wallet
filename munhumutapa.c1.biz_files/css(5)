@@ -1,0 +1,29 @@
+@font-face { font-family: Alef; font-style: normal; font-weight: 400; src: local(Alef Regular), local(Alef-Regular), url(https://fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDLNy1bQ.woff) format(woff); }
+
+@font-face { font-family: 'Amatica SC'; font-style: normal; font-weight: 400; src: local(Amatica SC), local(AmaticaSC-Regular), url(https://fonts.gstatic.com/s/amaticasc/v8/FwZe7-Y3x1wz-V2xaK3D2MuLpmm8_K8.woff) format(woff); }
+
+@font-face { font-family: Arimo; font-style: normal; font-weight: 400; src: local(Arimo Regular), local(Arimo-Regular), url(https://fonts.gstatic.com/s/arimo/v15/P5sMzZCDf9_T_10ZxCduj5-v.woff) format(woff); }
+
+@font-face { font-family: Assistant; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/assistant/v6/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnIGaV2YOrrM95Dw.woff) format(woff); }
+
+@font-face { font-family: Cousine; font-style: normal; font-weight: 400; src: local(Cousine Regular), local(Cousine-Regular), url(https://fonts.gstatic.com/s/cousine/v16/d6lIkaiiRdih4SpP_SQvyhTu39g.woff) format(woff); }
+
+@font-face { font-family: 'David Libre'; font-style: normal; font-weight: 400; src: local(David Libre), local(DavidLibre-Regular), url(https://fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W8l74JmxYj-Z.woff) format(woff); }
+
+@font-face { font-family: 'Frank Ruhl Libre'; font-style: normal; font-weight: 400; src: local(Frank Ruhl Libre Regular), local(FrankRuhlLibre-Regular), url(https://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPW7Dl57rkiY8.woff) format(woff); }
+
+@font-face { font-family: Heebo; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmg7UiCXB5W.woff) format(woff); }
+
+@font-face { font-family: 'Miriam Libre'; font-style: normal; font-weight: 400; src: local(Miriam Libre Regular), local(MiriamLibre-Regular), url(https://fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_fZ5P4b-i39w.woff) format(woff); }
+
+@font-face { font-family: Rubik; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/rubik/v11/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0UzdYPFkZVO.woff) format(woff); }
+
+@font-face { font-family: Rubik; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/rubik/v11/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0UzdYPFkZVO.woff) format(woff); }
+
+@font-face { font-family: 'Secular One'; font-style: normal; font-weight: 400; src: local(Secular One), local(SecularOne-Regular), url(https://fonts.gstatic.com/s/secularone/v5/8QINdiTajsj_87rMuMdKyqDiOO5ZL4pL.woff) format(woff); }
+
+@font-face { font-family: 'Suez One'; font-style: normal; font-weight: 400; src: local(Suez One), local(SuezOne-Regular), url(https://fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFOmo2C-50x.woff) format(woff); }
+
+@font-face { font-family: Tinos; font-style: normal; font-weight: 400; src: local(Tinos Regular), local(Tinos-Regular), url(https://fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX7fmJD8iI_.woff) format(woff); }
+
+@font-face { font-family: 'Varela Round'; font-style: normal; font-weight: 400; src: local(Varela Round Regular), local(VarelaRound-Regular), url(https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uJLdshZg.woff) format(woff); }

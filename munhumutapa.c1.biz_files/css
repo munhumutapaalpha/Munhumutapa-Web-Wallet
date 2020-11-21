@@ -1,0 +1,151 @@
+@font-face { font-family: Abel; font-style: normal; font-weight: 400; src: local(Abel Regular), local(Abel-Regular), url(https://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BO7h5uGM.woff) format(woff); }
+
+@font-face { font-family: Anton; font-style: normal; font-weight: 400; src: local(Anton Regular), local(Anton-Regular), url(https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3Kz-CkCSKlv.woff) format(woff); }
+
+@font-face { font-family: Arvo; font-style: normal; font-weight: 400; src: local(Arvo), url(https://fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ657o_vo.woff) format(woff); }
+
+@font-face { font-family: Arvo; font-style: normal; font-weight: 700; src: local(Arvo Bold), local(Arvo-Bold), url(https://fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9dD4hAA.woff) format(woff); }
+
+@font-face { font-family: Bangers; font-style: normal; font-weight: 400; src: local(Bangers Regular), local(Bangers-Regular), url(https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q3p5hm24.woff) format(woff); }
+
+@font-face { font-family: Bevan; font-style: normal; font-weight: 400; src: local(Bevan Regular), local(Bevan-Regular), url(https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWC3ZtUSI.woff) format(woff); }
+
+@font-face { font-family: Bitter; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOW3pzveS5Bw.woff) format(woff); }
+
+@font-face { font-family: Bitter; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOW3pzveS5Bw.woff) format(woff); }
+
+@font-face { font-family: 'Changa One'; font-style: normal; font-weight: 400; src: local(Changa One), local(ChangaOne), url(https://fonts.gstatic.com/s/changaone/v13/xfu00W3wXn3QLUJXhzq42AHiv5XYO68.woff) format(woff); }
+
+@font-face { font-family: Chewy; font-style: normal; font-weight: 400; src: local(Chewy Regular), local(Chewy-Regular), url(https://fonts.gstatic.com/s/chewy/v12/uK_94ruUb-k-wn52KjQ9OPec.woff) format(woff); }
+
+@font-face { font-family: Codystar; font-style: normal; font-weight: 400; src: local(Codystar), url(https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6H6M-Bp0u-.woff) format(woff); }
+
+@font-face { font-family: Copse; font-style: normal; font-weight: 400; src: local(Copse), url(https://fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFE-DUq-B.woff) format(woff); }
+
+@font-face { font-family: Damion; font-style: normal; font-weight: 400; src: local(Damion), url(https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwwEzJwVw.woff) format(woff); }
+
+@font-face { font-family: Dosis; font-style: normal; font-weight: 200; src: url(https://fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml2xMCbKsUPqjm.woff) format(woff); }
+
+@font-face { font-family: Dosis; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMCbKsUPqjm.woff) format(woff); }
+
+@font-face { font-family: Dosis; font-style: normal; font-weight: 800; src: url(https://fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql2xMCbKsUPqjm.woff) format(woff); }
+
+@font-face { font-family: 'Droid Serif'; font-style: italic; font-weight: 700; src: local(Droid Serif Bold Italic), local(DroidSerif-BoldItalic), url(https://fonts.gstatic.com/s/droidserif/v13/tDbX2oqRg1oM3QBjjcaDkOr4lLz5CwOnTmjW7BA.woff) format(woff); }
+
+@font-face { font-family: 'Droid Serif'; font-style: normal; font-weight: 400; src: local(Droid Serif Regular), local(DroidSerif-Regular), url(https://fonts.gstatic.com/s/droidserif/v13/tDbI2oqRg1oM3QBjjcaDkOr9rAPWGQyH.woff) format(woff); }
+
+@font-face { font-family: 'Francois One'; font-style: normal; font-weight: 400; src: local(Francois One Regular), local(FrancoisOne-Regular), url(https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9wQiXmfW_Aw.woff) format(woff); }
+
+@font-face { font-family: 'Fredericka the Great'; font-style: normal; font-weight: 400; src: local(Fredericka the Great), local(FrederickatheGreat), url(https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--SjxbEHcQ2K.woff) format(woff); }
+
+@font-face { font-family: 'Fugaz One'; font-style: normal; font-weight: 400; src: local(Fugaz One), local(FugazOne-Regular), url(https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFsl8AxhZsUjQ8Q.woff) format(woff); }
+
+@font-face { font-family: Geo; font-style: normal; font-weight: 400; src: local(Geo), local(Geo-Regular), url(https://fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHphYDpSbA.woff) format(woff); }
+
+@font-face { font-family: 'Grand Hotel'; font-style: normal; font-weight: 400; src: local(Grand Hotel), local(GrandHotel-Regular), url(https://fonts.gstatic.com/s/grandhotel/v8/7Au7p_IgjDKdCRWuR1azplQKGFos0VEw.woff) format(woff); }
+
+@font-face { font-family: 'Gravitas One'; font-style: normal; font-weight: 400; src: local(Gravitas One), local(GravitasOne), url(https://fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5KjXPjbA.woff) format(woff); }
+
+@font-face { font-family: 'Hammersmith One'; font-style: normal; font-weight: 400; src: local(Hammersmith One), local(HammersmithOne), url(https://fonts.gstatic.com/s/hammersmithone/v11/qWcyB624q4L_C4jGQ9IK0O_dFlnrtREjkYABXg.woff) format(woff); }
+
+@font-face { font-family: Kreon; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtiWfT8YhWJGN4hE.woff) format(woff); }
+
+@font-face { font-family: Kreon; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-WfT8YhWJGN4hE.woff) format(woff); }
+
+@font-face { font-family: 'Libre Baskerville'; font-style: italic; font-weight: 400; src: local(Libre Baskerville Italic), local(LibreBaskerville-Italic), url(https://fonts.gstatic.com/s/librebaskerville/v9/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCu-Wyrs.woff) format(woff); }
+
+@font-face { font-family: 'Libre Baskerville'; font-style: normal; font-weight: 400; src: local(Libre Baskerville), local(LibreBaskerville-Regular), url(https://fonts.gstatic.com/s/librebaskerville/v9/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxUaC82U.woff) format(woff); }
+
+@font-face { font-family: 'Libre Baskerville'; font-style: normal; font-weight: 700; src: local(Libre Baskerville Bold), local(LibreBaskerville-Bold), url(https://fonts.gstatic.com/s/librebaskerville/v9/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3Kca-wLOj.woff) format(woff); }
+
+@font-face { font-family: Lobster; font-style: normal; font-weight: 400; src: local(Lobster Regular), local(Lobster-Regular), url(https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoKmNYMwWJU.woff) format(woff); }
+
+@font-face { font-family: 'Love Ya Like A Sister'; font-style: normal; font-weight: 400; src: local(Love Ya Like A Sister Regular), local(LoveYaLikeASister-Regular), url(https://fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxbkmKicQ.woff) format(woff); }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 400; src: local(Merriweather Regular), local(Merriweather-Regular), url(https://fonts.gstatic.com/s/merriweather/v22/u-440qyriQwlOrhSvowK_l5-fCZKdeX3rg.woff) format(woff); }
+
+@font-face { font-family: Monoton; font-style: normal; font-weight: 400; src: local(Monoton), local(Monoton-Regular), url(https://fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLREa4BU4.woff) format(woff); }
+
+@font-face { font-family: Montserrat; font-style: normal; font-weight: 400; src: local(Montserrat Regular), local(Montserrat-Regular), url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459WlhzSTh89Y.woff) format(woff); }
+
+@font-face { font-family: 'Mr Dafoe'; font-style: normal; font-weight: 400; src: local(Mr Dafoe Regular), local(MrDafoe-Regular), url(https://fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFitibQgxC_D.woff) format(woff); }
+
+@font-face { font-family: Muli; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e6fwniDtzM.woff) format(woff); }
+
+@font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local(Open Sans Regular), local(OpenSans-Regular), url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0df8pkAg.woff) format(woff); }
+
+@font-face { font-family: Oranienbaum; font-style: normal; font-weight: 400; src: local(Oranienbaum), local(Oranienbaum-Regular), url(https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5EvVdYHd.woff) format(woff); }
+
+@font-face { font-family: Oswald; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/oswald/v35/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCXAA.woff) format(woff); }
+
+@font-face { font-family: Oxygen; font-style: normal; font-weight: 400; src: local(Oxygen Regular), local(Oxygen-Regular), url(https://fonts.gstatic.com/s/oxygen/v10/2sDfZG1Wl4LcnbuKjk0gRUe0Aw.woff) format(woff); }
+
+@font-face { font-family: Pacifico; font-style: normal; font-weight: 400; src: local(Pacifico Regular), local(Pacifico-Regular), url(https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6M-Bp0u-.woff) format(woff); }
+
+@font-face { font-family: 'Passion One'; font-style: normal; font-weight: 400; src: local(Passion One Regular), local(PassionOne-Regular), url(https://fonts.gstatic.com/s/passionone/v11/PbynFmL8HhTPqbjUzux3JEuR9l3C6poU.woff) format(woff); }
+
+@font-face { font-family: 'Permanent Marker'; font-style: normal; font-weight: 400; src: local(Permanent Marker Regular), local(PermanentMarker-Regular), url(https://fonts.gstatic.com/s/permanentmarker/v10/Fh4uPib9Iyv2ucM6pGQMWimMp004La2CeZb6jlg.woff) format(woff); }
+
+@font-face { font-family: 'Petit Formal Script'; font-style: normal; font-weight: 400; src: local(Petit Formal Script), local(PetitFormalScript-Regular), url(https://fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkH7gOKoaWiA.woff) format(woff); }
+
+@font-face { font-family: Play; font-style: normal; font-weight: 400; src: local(Play Regular), local(Play-Regular), url(https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvtU2Gb0Q13E.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/playfairdisplay/v21/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_3-uE0qEEw.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 900; src: url(https://fonts.gstatic.com/s/playfairdisplay/v21/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_3-uE0qEEw.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/playfairdisplay/v21/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtXK-F2qC0s.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 900; src: url(https://fonts.gstatic.com/s/playfairdisplay/v21/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtXK-F2qC0s.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display SC'; font-style: italic; font-weight: 400; src: local(Playfair Display SC Italic), local(PlayfairDisplaySC-Italic), url(https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8Eus0AYgdKw.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display SC'; font-style: normal; font-weight: 400; src: local(Playfair Display SC Regular), local(PlayfairDisplaySC-Regular), url(https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbkMFuE1I4o.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display SC'; font-style: normal; font-weight: 700; src: local(Playfair Display SC Bold), local(PlayfairDisplaySC-Bold), url(https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXKKAXIyA.woff) format(woff); }
+
+@font-face { font-family: 'Playfair Display SC'; font-style: normal; font-weight: 900; src: local(Playfair Display SC Black), local(PlayfairDisplaySC-Black), url(https://fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXKKAXIyA.woff) format(woff); }
+
+@font-face { font-family: Prata; font-style: normal; font-weight: 400; src: local(Prata Regular), local(Prata-Regular), url(https://fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCmjbLnwI.woff) format(woff); }
+
+@font-face { font-family: Quicksand; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xDwxUD2GFw.woff) format(woff); }
+
+@font-face { font-family: Quicksand; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xDwxUD2GFw.woff) format(woff); }
+
+@font-face { font-family: Quicksand; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xDwxUD2GFw.woff) format(woff); }
+
+@font-face { font-family: Qwigley; font-style: normal; font-weight: 400; src: local(Qwigley), local(Qwigley-Regular), url(https://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVtmjHuCicA.woff) format(woff); }
+
+@font-face { font-family: 'Roboto Condensed'; font-style: normal; font-weight: 300; src: local(Roboto Condensed Light), local(RobotoCondensed-Light), url(https://fonts.gstatic.com/s/robotocondensed/v19/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYadlecyU.woff) format(woff); }
+
+@font-face { font-family: 'Roboto Condensed'; font-style: normal; font-weight: 400; src: local(Roboto Condensed), local(RobotoCondensed-Regular), url(https://fonts.gstatic.com/s/robotocondensed/v19/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7Cwk6YvM.woff) format(woff); }
+
+@font-face { font-family: 'Roboto Condensed'; font-style: normal; font-weight: 700; src: local(Roboto Condensed Bold), local(RobotoCondensed-Bold), url(https://fonts.gstatic.com/s/robotocondensed/v19/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYadlecyU.woff) format(woff); }
+
+@font-face { font-family: Rokkitt; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbmluc6ms9E.woff) format(woff); }
+
+@font-face { font-family: 'Rozha One'; font-style: normal; font-weight: 400; src: local(Rozha One Regular), local(RozhaOne-Regular), url(https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRcn3_fh4Dog.woff) format(woff); }
+
+@font-face { font-family: 'Rubik Mono One'; font-style: normal; font-weight: 400; src: local(Rubik Mono One Regular), local(RubikMonoOne-Regular), url(https://fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKMJcOj8.woff) format(woff); }
+
+@font-face { font-family: Sail; font-style: normal; font-weight: 400; src: local(Sail), local(Sail-Regular), url(https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJBPJBxQDfv0.woff) format(woff); }
+
+@font-face { font-family: 'Six Caps'; font-style: normal; font-weight: 400; src: local(Six Caps), local(SixCaps), url(https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3L4Pzoo.woff) format(woff); }
+
+@font-face { font-family: Teko; font-style: normal; font-weight: 300; src: local(Teko Light), local(Teko-Light), url(https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCRgrnAtXN8.woff) format(woff); }
+
+@font-face { font-family: Teko; font-style: normal; font-weight: 400; src: local(Teko Regular), local(Teko-Regular), url(https://fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfaN9owlCpVo.woff) format(woff); }
+
+@font-face { font-family: Teko; font-style: normal; font-weight: 700; src: local(Teko Bold), local(Teko-Bold), url(https://fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCRgrnAtXN8.woff) format(woff); }
+
+@font-face { font-family: Ultra; font-style: normal; font-weight: 400; src: local(Ultra Regular), local(Ultra-Regular), url(https://fonts.gstatic.com/s/ultra/v13/zOLy4prXmrtY-uT9wrSh68xE.woff) format(woff); }
+
+@font-face { font-family: UnifrakturCook; font-style: normal; font-weight: 700; src: local(UnifrakturCook), local(UnifrakturCook-Bold), url(https://fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oX1sPh7.woff) format(woff); }
+
+@font-face { font-family: UnifrakturMaguntia; font-style: normal; font-weight: 400; src: local(UnifrakturMaguntia), url(https://fonts.gstatic.com/s/unifrakturmaguntia/v11/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVemGZKFABK1Q.woff) format(woff); }
+
+@font-face { font-family: Viga; font-style: normal; font-weight: 400; src: local(Viga-Regular), url(https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpCKW1KX4.woff) format(woff); }
+
+@font-face { font-family: 'Wire One'; font-style: normal; font-weight: 400; src: local(Wire One), local(WireOne), url(https://fonts.gstatic.com/s/wireone/v11/qFdH35Wah5htUhV75VGlU93gwBcI.woff) format(woff); }
+
+@font-face { font-family: Yellowtail; font-style: normal; font-weight: 400; src: local(Yellowtail Regular), local(Yellowtail-Regular), url(https://fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHx2L9f4k.woff) format(woff); }

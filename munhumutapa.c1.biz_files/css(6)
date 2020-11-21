@@ -1,0 +1,7 @@
+@font-face { font-family: Cairo; font-style: normal; font-weight: 400; src: local(Cairo Regular), local(Cairo-Regular), url(https://fonts.gstatic.com/s/cairo/v9/SLXGc1nY6HkvalIhTp2mxdt0.woff) format(woff); }
+
+@font-face { font-family: Changa; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjfj8TlaxZKJaw.woff) format(woff); }
+
+@font-face { font-family: Lalezar; font-style: normal; font-weight: 400; src: local(Lalezar), local(Lalezar-Regular), url(https://fonts.gstatic.com/s/lalezar/v8/zrfl0HLVx-HwTP82Yaf4JQD3VCk.woff) format(woff); }
+
+@font-face { font-family: 'Reem Kufi'; font-style: normal; font-weight: 400; src: local(Reem Kufi Regular), local(ReemKufi-Regular), url(https://fonts.gstatic.com/s/reemkufi/v9/2sDcZGJLip7W2J7v7wQzaGW_Kb8VZA.woff) format(woff); }
