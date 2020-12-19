@@ -63,7 +63,7 @@ var NRS = (function(NRS, $, undefined) {
         is_testnet: false,
         remote_node_address: "",
         remote_node_port: 22024,
-        is_remote_node_ssl: true,
+        is_remote_node_ssl: ,
         validators_count: 3,
         bootstrap_nodes_count: 5,
 		chain: "2",
