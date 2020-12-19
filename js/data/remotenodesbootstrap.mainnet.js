@@ -14,19 +14,7 @@
  *                                                                            *
  ******************************************************************************/
 
-RemoteNodesManager.prototype.REMOTE_NODES_BOOTSTRAP =
-    {
-        "peers":[
-            {
-                "downloadedVolume":0,
-                "address":"82.253.237.216",
-                "inbound":false,
-                "blockchainState":"UP_TO_DATE",
-                "uploadedVolume":0,
-                "services":[
-                    "API",
-                    "CORS"
-                ],/******************************************************************************
+/****************************************************************************
  * Copyright © 2013-2016 The Nxt Core Developers.                             *
  * Copyright © 2016-2019 Jelurida IP B.V.                                     *
  *                                                                            *
